@@ -49,7 +49,7 @@ _Precision_: 0.87
 _Recall_: 0.87   
 _F1_: 0.87   
  
-_Library_ yang digunakan:  
+**_Library_ yang Digunakan:**  
 •	numpy  
 •	pandas  
 •	matplotlib.pyploy  
